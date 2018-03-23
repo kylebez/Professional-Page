@@ -19,7 +19,7 @@ Check out portfolios of my work here:
 
 Or see my stuff that's been published on the interwebs:
 
-[Allen County iMap](www.acimap.us)
+[Allen County iMap](http://www.acimap.us)
 
 [Capital Concepts](http://www.capconnm.com)
 
@@ -29,4 +29,4 @@ BONUS!! See my first ever web app, built self-taught:
 ### Support or Contact
 
 You can email me [here](mailto:kykle.beswick@outlook.com) or [call me](tel:+18016091373).
-You can find me on [LinkedIn](www.linkedin.com/in/kylebez)
+You can find me on [LinkedIn](http://www.linkedin.com/in/kylebez)
