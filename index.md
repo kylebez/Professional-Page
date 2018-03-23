@@ -1,37 +1,32 @@
+![Alt text](/Personal Logo2.png)
 ## KB Hub
 
-You can use the [editor on GitHub](https://github.com/kylebez/kylebez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my home page - under construction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### View my resume
 
-### Markdown
+<iframe src="https://onedrive.live.com/embed?cid=EB8BA95E9A90D691&resid=EB8BA95E9A90D691%21213793&authkey=AGOqZVv5Oo2Ove8&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Some work
 
-```markdown
-Syntax highlighted code block
+Check out portfolios of my work here:
 
-# Header 1
-## Header 2
-### Header 3
+<iframe src="https://onedrive.live.com/embed?cid=EB8BA95E9A90D691&resid=EB8BA95E9A90D691%21213816&authkey=ACDK2bNGPO5OoPY" width="165" height="128" frameborder="0" scrolling="no"></iframe>
 
-- Bulleted
-- List
+[Adobe Creative Cloud](https://adobe.ly/2G40cIm)
 
-1. Numbered
-2. List
+[My GitHub account](https://github.com/kylebez/)
 
-**Bold** and _Italic_ and `Code` text
+Or see my stuff that's been published on the interwebs:
 
-[Link](url) and ![Image](src)
-```
+[Allen County iMap](www.acimap.us)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Capital Concepts](http://www.capconnm.com)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kylebez/kylebez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+BONUS!! See my first ever web app, built self-taught:
+[GooTM](https://kylebez.github.io/gooTM/)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can email me [here](mailto:kykle.beswick@outlook.com) or [call me](tel:+18016091373).
+You can find me on [LinkedIn](www.linkedin.com/in/kylebez)
