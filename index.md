@@ -1,7 +1,14 @@
-![Alt text](/Personal Logo2.png)
-## KB Hub
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"> 
 
-This is my home page - under construction.
+<style>
+body{
+	background-image:url(/Personal Logo2.png)
+	opacity: 0.5;
+	font-family: 'Raleway', sans-serif;
+}
+</style>
+
+This page is still a work in progress.
 
 ### View my resume
 
@@ -11,7 +18,7 @@ This is my home page - under construction.
 
 Check out portfolios of my work here:
 
-<iframe src="https://onedrive.live.com/embed?cid=EB8BA95E9A90D691&resid=EB8BA95E9A90D691%21213816&authkey=ACDK2bNGPO5OoPY" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+[My Work Portfolio](https://1drv.ms/f/s!ApHWkJpeqYvrjYY4yEnn0aIW43eTwA)
 
 [Adobe Creative Cloud](https://adobe.ly/2G40cIm)
 
@@ -28,5 +35,5 @@ BONUS!! See my first ever web app, built self-taught:
 
 ### Support or Contact
 
-You can email me [here](mailto:kykle.beswick@outlook.com) or [call me](tel:+18016091373).
+You can email me [here](mailto:kyle.beswick@outlook.com) or [call me](tel:+18016091373).
 You can find me on [LinkedIn](http://www.linkedin.com/in/kylebez).
