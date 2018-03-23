@@ -5,7 +5,7 @@ This is my home page - under construction.
 
 ### View my resume
 
-<iframe src="https://onedrive.live.com/embed?cid=EB8BA95E9A90D691&resid=EB8BA95E9A90D691%21213793&authkey=AGOqZVv5Oo2Ove8&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=EB8BA95E9A90D691&resid=EB8BA95E9A90D691%21213793&authkey=AGOqZVv5Oo2Ove8&em=2" width="75%" height="500" frameborder="0" scrolling="no"></iframe>
 
 ### Some work
 
